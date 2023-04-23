@@ -71,7 +71,7 @@
   <div class="swiper swiper-container">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <img src=".vscode/images/1.png">
+        <img src="images/carousel/1.png">
       </div>
       <div class="swiper-slide">
         <img src="https://swiperjs.com/demos/images/nature-2.jpg" />
